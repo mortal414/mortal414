@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey, I'm Marco.
 
-<!--
-**mortal414/mortal414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Games, tools, and the occasional rabbit hole.
 
-Here are some ideas to get you started:
+Most of this GitHub is stuff I've made for fun: Arma Reforger mods, tools that grew out of working on them, and a few older experiments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A few places to start
+
+- **[Gepard](https://github.com/mortal414/gepard)** · A work-in-progress Arma Reforger vehicle mod. The README covers the released version and its limitations.
+- **[Portable Camo Nets](https://github.com/mortal414/portable-camo-nets)** · Carry, deploy, and recover camouflage hides. My work is in the gameplay and configuration; the art comes from the game.
+- **[Reforger Agent Harness](https://github.com/mortal414/reforger-agent-harness)** · Local tools for working with Enfusion Workbench, running tests, and collecting evidence from each run.
+
+I use AI tools in these projects. The repo docs cover testing, limitations, and where the assets came from.
