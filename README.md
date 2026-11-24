@@ -1,13 +1,9 @@
-# Hey, I'm Marco.
+# Hi, I’m Marco
 
-Games, tools, and the occasional rabbit hole.
+I’m a software engineer at Walmart Global Tech. I work on production data pipelines with Python, SQL, Airflow, and Google Cloud. Outside work, I experiment with language models, build tools, and make 3D art for games.
 
-Most of this GitHub is stuff I've made for fun: Arma Reforger mods, tools that grew out of working on them, and a few older experiments.
+## Projects
 
-### A few places to start
-
-- **[Gepard Blender showcase](https://github.com/mortal414/gepard-blender-showcase)** · Current model renders and turntables, ahead of the in-game version.
-- **[Portable Camo Nets](https://github.com/mortal414/portable-camo-nets)** · Carry, deploy, and recover camouflage hides. My work is in the gameplay and configuration; the art comes from the game.
-- **[Reforger Agent Harness](https://github.com/mortal414/reforger-agent-harness)** · Local tools for working with Enfusion Workbench, running tests, and collecting evidence from each run.
-
-I use AI tools in these projects. The repo docs cover testing, limitations, and where the assets came from.
+- [**Gepard Blender Showcase**](https://github.com/mortal414/gepard-blender-showcase): Renders and turntables from an LLM-assisted Blender workflow. I use reference photos and render reviews to guide revisions.
+- [**LLM Chess**](https://github.com/mortal414/llmchess): A Python experiment in checking model outputs against chess rules, with replayable games and an offline audit.
+- [**Reforger Agent Harness**](https://github.com/mortal414/reforger-agent-harness): Local tooling for validating game addons, running isolated tests, and collecting logs.
