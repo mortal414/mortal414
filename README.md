@@ -7,7 +7,6 @@ Most of this GitHub is stuff I've made for fun: Arma Reforger mods, tools that g
 ### A few places to start
 
 - **[Gepard Blender showcase](https://github.com/mortal414/gepard-blender-showcase)** · Current model renders and turntables, ahead of the in-game version.
-- **[Gepard](https://github.com/mortal414/gepard)** · A work-in-progress Arma Reforger vehicle mod. The README covers the released version and its limitations.
 - **[Portable Camo Nets](https://github.com/mortal414/portable-camo-nets)** · Carry, deploy, and recover camouflage hides. My work is in the gameplay and configuration; the art comes from the game.
 - **[Reforger Agent Harness](https://github.com/mortal414/reforger-agent-harness)** · Local tools for working with Enfusion Workbench, running tests, and collecting evidence from each run.
 
